@@ -1,5 +1,5 @@
 # 💫 About Me:
-Howdy! I'm Nayab Warach, an engineering student at Texas A&M University. <br><br>As dedicated treasurer of the W5AC amateur radio club and assistant webmaster at KANM Student Radio, I have honed my skills through various projects and scripts. <br><br>Whether it's implementing a new feature or debugging complex code, I am always eager to tackle challenges and continue learning.
+Howdy! I'm Nayab Warach, an engineering student at Texas A&M University. <br><br>As the dedicated System Administrator at KANM Student Radio, I have honed my skills through various projects and scripts. <br><br>Whether it's implementing a new feature or debugging complex code, I am always eager to tackle challenges and continue learning.
 
 
 ## 🌐 Socials:
